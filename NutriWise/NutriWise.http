@@ -1,0 +1,6 @@
+@NutriWise_HostAddress = http://localhost:5086
+
+GET {{NutriWise_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
